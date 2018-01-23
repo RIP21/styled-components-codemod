@@ -1,0 +1,14 @@
+{
+  "name": "styled-components-native-to-plain-codemod",
+  "version": "1.0.0",
+  "description": "Codemod to migrate /native to plain imports (for styled-components v3 only)",
+  "repository": "https://github.com/RIP21/styled-components-native-to-plain-codemod.git",
+  "main": "sc-native-to-plain.js",
+  "author": "@RIP21",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^22.1.4",
+    "jscodeshift": "^0.4.0"
+  }
+}
