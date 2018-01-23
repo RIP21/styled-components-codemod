@@ -1,4 +1,4 @@
-# styled-components-native-to-plain 🛠
+# styled-components-native-to-plain-codemod 🛠
 
 It's a simple codemod to rename all imports and requires from `'styled-components/native'` to `'styled-components'` for
 React Native apps.
